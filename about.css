@@ -1,0 +1,5 @@
+.about h1{
+    font-size: var(--size-6xl);
+    font-weight: 200;
+    text-align: center;
+}
